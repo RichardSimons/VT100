@@ -1,0 +1,8 @@
+SaveCursorPosition		KEYWORD1
+RecallCursorPosition		KEYWORD2
+ClearScreen			KEYWORD3
+MoveCursor  			KEYWORD4
+Bold				KEYWORD5
+Blink				KEYWORD6
+ClearLine			KEYWORD7
+VT100				KEYWORD8
